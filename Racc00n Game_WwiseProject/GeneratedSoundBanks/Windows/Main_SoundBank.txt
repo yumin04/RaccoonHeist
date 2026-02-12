@@ -1,0 +1,86 @@
+Event	ID	Name			Wwise Object Path	Notes
+	825263851	Play_WindowBreak			\Default Work Unit\Play_WindowBreak	
+	1422657174	PlayGameMusic			\Default Work Unit\PlayGameMusic	
+	2570041344	Play_MenuMusic			\Default Work Unit\Play_MenuMusic	
+	2597825084	PostMusicTrigger			\Default Work Unit\PostMusicTrigger	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1021618141	MusicState			\Default Work Unit\MusicState	
+	3237031728	PauseState			\Default Work Unit\PauseState	
+
+State	ID	Name	State Group			Notes
+	417490929	Chase	MusicState			
+	748895195	None	MusicState			
+	2607556080	Menu	MusicState			
+	2864248198	MenuIntro	MusicState			
+	3259132480	PinkRaccoon	MusicState			
+	319258907	Paused	PauseState			
+	748895195	None	PauseState			
+	1365518790	Unpaused	PauseState			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	14642241	Menu Drums	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\BB\{BB9006BC-7B7F-8965-7B07-1E496B26A2AB}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Drums		10405368
+	35200710	Chase JOE! Melody	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\E6\{E61DDBA3-9577-F26F-C135-3AE656BB2AA8}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase JOE! Melody		1571070
+	41849650	Melodies	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2C\{2CE3440C-BA8A-0B28-1292-06B32587A211}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Melodies		5202788
+	54350791	Intro Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\C7\{C7EE8993-559B-E2F3-6D7F-9D48A5BCE79F}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Theme Intro\Intro Winds		3902144
+	82570690	Rouge Short Strings Layer 4	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\E0\{E0E150A7-F9E1-6C7D-1FB8-23532F7BB565}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Short Strings Layer 4		10405416
+	122386415	Chase Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\98\{98495833-A2F8-5F57-555C-CEBCE4038C8F}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Winds		2186576
+	164449082	Menu Strings Layer 1	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\5F\{5F49E5FC-FA04-6C05-B33E-C4E7EF062D1C}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Strings Layer 1		10405368
+	207333254	Rouge Brass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\39\{39723D3D-31F2-EA0B-8BCE-4BA269343E19}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Brass		10405416
+	217189073	Chase Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\03\{031EEFD3-7701-AD50-13D9-0C565BD5E7AA}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Winds		3141980
+	225403725	Chase Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\29\{293FBE9A-AC67-5E5E-DDBC-63D7893D8017}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Bass		3141980
+	278016175	Chase Strings	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\95\{95701299-A20C-F3A5-5A7B-EA29AC3F27C9}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Strings		3141980
+	319105122	Chase Jaw Harp	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\56\{56938132-32FA-5838-8E92-FE163301C760}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Jaw Harp		1924756
+	328473032	Chase JOE! Trumpet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\59\{590DABFE-6056-D1C6-D75F-DDD394C7B2BE}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase JOE! Trumpet		1571070
+	329497490	Rouge Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\4B\{4BB6223F-786F-6C3D-557B-2900E8EC34CA}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Bass		10405416
+	335508552	Rouge Trumpet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\B5\{B513E0FE-B202-35DA-454F-183034AEBA8B}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Trumpet		10405416
+	379129677	Menu Trumpet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\8B\{8BD44B59-3138-3891-2A4C-1510793F9D87}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Trumpet		10405368
+	388904729	Rouge Strings Layer 2	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\97\{9799EF25-955E-6C69-5500-15222F90FA78}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Strings Layer 2		10405416
+	403136463	Melodies	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\45\{45EBFA38-6FDE-20FB-69A4-91BA8B1AC7A1}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Melodies		5202788
+	430283809	Menu to Rouge Clarinet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\8C\{8C9D510D-3E1B-3B62-02EA-3C172536F212}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Clarinet		325370
+	444526414	Intro Keys	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\52\{521C9DE2-F8E6-6077-FE9C-EE264B75FC18}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Theme Intro\Intro Keys		3902144
+	467879395	Chase Sax Run 2	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2E\{2E281437-DD29-C719-8E68-4D99A32A57CB}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Sax Run 2		1571070
+	470710145	Menu Horns	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\48\{4821D339-5A51-168A-0507-45616377EF8A}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Horns		10405368
+	474476642	Intro Clarinet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\EB\{EB6CF380-2FA0-8CD6-229F-EAB8D524DCEF}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Theme Intro\Intro Clarinet		1951176
+	493509951	Rouge Jaw Harp	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\9E\{9EBF335D-9295-8824-5BA1-71C412009D6F}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Jaw Harp		10405416
+	514601288	Rouge Xylo + Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\E1\{E1D54F6A-2F22-76C7-6AE0-11F757168696}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Xylo + Winds		10405416
+	525816098	Chase JOE! HORN	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\5B\{5B96AEC4-4B58-A866-3BCC-DA475F28B800}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase JOE! HORN		1571070
+	528636334	Menu to Rouge Drums	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\82\{82847170-FA45-8471-408E-24066175CB4D}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Drums		650532
+	559246703	Melodies	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\CA\{CA5AB3F1-C675-2C00-1189-B541F09ED383}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Melodies		5202788
+	582322971	Chase Trombones	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\A3\{A3328682-A824-8676-A04C-678DFC6ED659}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Trombones		3141980
+	641672636	Menu Keys	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\BD\{BD000C52-8B0A-D33F-34B7-3913F6211BC2}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Keys		10405368
+	642152112	Melodies	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\AA\{AA1C88E8-A76D-2FF5-C611-C022980A2B86}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Melodies		5202788
+	642200931	Menu Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\50\{50DAA0C5-7235-5C3A-D87F-85562229A172}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Winds		10405368
+	665726070	Rouge Melody Solo	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2C\{2CD563BA-DFA7-1A20-10F6-F2C421EEC6A2}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Melody Solo		5202836
+	669155841	Menu to Rouge Horns	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\78\{78B3FC09-D2CE-60CE-C012-22EE51B68763}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Horns		650532
+	672237961	Chase Clarinet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\E4\{E4669CEC-D965-F445-4F57-90FB954D8F28}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Clarinet		1571070
+	682808376	Chase Arco Strings	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\F6\{F617DF2B-CFCF-B86A-FCEB-370BF11A11BE}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Arco Strings		2343668
+	686349538	Melodies	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\F1\{F18966C2-DFCC-7B2B-FD4B-8FF3A4EF7748}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Melodies		5202788
+	711832425	Chase Sax Runs	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\AE\{AEC6097E-65CA-EFE5-8BC1-0E3142CC57FA}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Sax Runs		2186576
+	722095521	Brass Fall Trumpet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\6C\{6C7463AA-0CB5-04DB-402D-BF60F974FE0E}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Brass Fall Trumpet\Brass Fall Trumpet		261980
+	722248580	Chase Drums	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\F0\{F06F0952-5319-8CBA-0804-D71CBADFE083}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Drums		3141980
+	738657983	Chase Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\CA\{CAA20ED9-30ED-9CB7-BB44-B0AB73CB2901}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Bass		1924756
+	793806195	Menu Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\69\{699CB917-D957-D05C-FAB2-C572BDD5A81E}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Bass		10405368
+	799951823	Menu Strings Layer 3	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\1B\{1B9F7B3C-0688-92FD-4175-CE89CF752B8B}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Strings Layer 3		10405368
+	803669676	Menu to Rouge Trumpet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\1C\{1C6A9A73-11FF-841A-AB20-CA9110B348A6}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Trumpet		650532
+	806693236	Window_Break_ODC-0023-458	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\5D\{5DFDD8D9-8F5D-A057-DCA1-CAB9F9545BE1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Window_Break_ODC-0023-458		676176
+	848465512	Rouge Flute	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\F6\{F69E01D1-C831-C45F-2B01-14DD7BA37405}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Flute		10405416
+	853155424	Chase Sax Swells	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\86\{8602F405-A83E-08A6-5304-DEBE06F99CC2}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Rouge to Chase!\Chase Sax Swells		2343668
+	869540383	Menu Strings Layer 2	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\0E\{0E3D128B-AE54-AD16-A7F5-32DF745E30A6}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Strings Layer 2		10405368
+	883824347	Chase Brass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2C\{2C70ED44-9EC3-46F4-C636-FFCF8AB8C9B6}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Brass		3141980
+	896292542	Drum Fills_1	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\F2\{F2C0BF30-50F4-D79E-F6D5-8A63B2AD5D27}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Intro to Rouge\Drum Fills_1		186016
+	898316884	Fill Clarinet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\A1\{A1F576A2-A81A-A4BA-489F-67A6DB1BD6C5}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Intro to Rouge\Fill Clarinet		93112
+	899030750	Menu Clarinet	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\14\{148D2832-3FB5-E3D1-D60F-7BDFC790CBAF}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Clarinet		5202788
+	911231430	Rouge Melody Solo	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\8E\{8EFAD464-FCB0-80EA-52E8-4366C1A3E6DF}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Melody Solo		5202836
+	917366960	Chase Xylo + Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\21\{21BF4384-4236-880D-6F11-67BE994C78D9}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Xylo + Winds		3141980
+	972099479	Rouge Strings Layer 1	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2F\{2F0B9E36-F6E4-9A93-A706-C0AD329DB2E5}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Strings Layer 1		10405416
+	979054113	Chase Sax Run 1	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\8A\{8AAD297A-41AA-20B4-FAFC-CE7D562E5932}.wem		\Interactive Music Hierarchy\Music\GameMusic\Chase\Chase\Chase Sax Run 1		1571070
+	986285141	Menu to Rouge Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\E1\{E17C5C44-CBCD-73C8-29CD-FA879269F9D5}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Winds		650532
+	1001762735	Fill Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\B7\{B77253BB-F2BC-3728-BC5D-B82866F76A06}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Intro to Rouge\Fill Bass		186016
+	1006684655	Rouge Melody Solo	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\EF\{EF3E8A84-7D1B-00C7-A159-91C4494CFD36}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Melody Solo		5202836
+	1009275270	Menu Short Strings Layer 4	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\86\{86B26BA3-6240-3FB2-E614-7D6FFB8EF961}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Short Strings Layer 4		10405368
+	1012280462	Intro Strings	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2C\{2C48B354-F3A7-50B0-4A7F-CF3829349B03}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu Theme Intro\Intro Strings		3902144
+	1027024098	Menu to Rouge Bass	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\5B\{5B6042F1-A755-59E6-92B9-093BB048E330}.wem		\Interactive Music Hierarchy\Music\GameMusic\Transitions\Menu to Rouge\Menu to Rouge Bass		650532
+	1027921234	Rouge Drums	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\B8\{B8FD9F58-64C6-A204-248E-E33EC3A0ADD6}.wem		\Interactive Music Hierarchy\Music\GameMusic\RougeRacoon\Rouge Raccoon\Rouge Drums		10405416
+	1066338421	Menu Xylo + Winds	Y:\Desktop\Racc00nGame\Racc00n Game_WwiseProject\.cache\2B\{2B192658-2FC3-9424-9109-C105C0F00BB4}.wem		\Interactive Music Hierarchy\Music\GameMusic\Menu\Menu Theme\Menu Xylo + Winds		10405368
+

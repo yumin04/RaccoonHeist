@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{16CA1CDD-414C-48A1-9CEE-CD1331CD03B1}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{16CA1CDD-414C-48A1-9CEE-CD1331CD03B1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_MenuMusic" ID="{1F9E977E-B066-4419-A13B-EFEAA5942D29}">
+					<ChildrenList>
+						<Action Name="" ID="{45131552-E72E-4538-B2EC-537F8D5B6841}" ShortID="185419756">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menu" ID="{EA1FE678-F664-487F-B4B0-6D7AAF9A46E7}" WorkUnitID="{92EE93FE-986F-4F8A-B5BA-7A845972C8B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PlayGameMusic" ID="{FD3E54B2-1161-4EB6-BA2C-16FE29C47AC0}">
+					<ChildrenList>
+						<Action Name="" ID="{2CEC03A5-2931-4176-889B-5A87AACBD3A4}" ShortID="174723124">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="GameMusic" ID="{96746744-577C-475D-89CD-8BD724198A92}" WorkUnitID="{92EE93FE-986F-4F8A-B5BA-7A845972C8B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_WindowBreak" ID="{32CE3FCF-54CB-4034-9F93-18AA3D84B53C}">
+					<ChildrenList>
+						<Action Name="" ID="{7CF55753-14E0-4DDA-8342-D6BCBF8BFC2B}" ShortID="493283130">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Window_Break_ODC-0023-458" ID="{D92001AF-8938-4921-AD4C-1C5B1E68BD7A}" WorkUnitID="{82836EC9-30C5-4F48-8E2B-93A2424D5893}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PostMusicTrigger" ID="{912FE7F0-B60A-457C-9943-B303BAF676B3}">
+					<ChildrenList>
+						<Action Name="" ID="{0D89E545-C67F-434C-81F2-E9B3649ED14C}" ShortID="739733126">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="22"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PinkRaccoon" ID="{8E2B7182-48E8-4471-A35F-D4D421046EE1}" WorkUnitID="{DD662922-0C54-4C7E-AFF6-61B575EAFE34}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

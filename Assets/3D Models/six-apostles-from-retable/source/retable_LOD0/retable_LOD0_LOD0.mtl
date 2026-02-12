@@ -1,0 +1,21 @@
+#
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.3.1.117316
+#
+
+newmtl retable_LOD0_LOD0_u0_v0
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd retable_LOD0_LOD0_u0_v0_diffuse.jpg
+
+newmtl retable_LOD0_LOD0_u1_v0
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd retable_LOD0_LOD0_u1_v0_diffuse.jpg

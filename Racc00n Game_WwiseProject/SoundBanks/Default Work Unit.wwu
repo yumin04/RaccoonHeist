@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1B6AF649-3310-40E8-B391-4853C80C2860}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{1B6AF649-3310-40E8-B391-4853C80C2860}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main_SoundBank" ID="{85E14DE7-8E1D-4F42-B2F2-B31E65B98AFC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Interactive Music Hierarchy" ID="{49FED366-B530-42A8-993B-924873AAB707}" WorkUnitID="{49FED366-B530-42A8-993B-924873AAB707}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_MenuMusic" ID="{1F9E977E-B066-4419-A13B-EFEAA5942D29}" WorkUnitID="{16CA1CDD-414C-48A1-9CEE-CD1331CD03B1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GameMusic" ID="{96746744-577C-475D-89CD-8BD724198A92}" WorkUnitID="{92EE93FE-986F-4F8A-B5BA-7A845972C8B7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" WorkUnitID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PlayGameMusic" ID="{FD3E54B2-1161-4EB6-BA2C-16FE29C47AC0}" WorkUnitID="{16CA1CDD-414C-48A1-9CEE-CD1331CD03B1}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

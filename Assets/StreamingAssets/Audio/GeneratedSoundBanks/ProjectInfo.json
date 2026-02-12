@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "Racc00n Game v3_WwiseProject",
+   "GUID": "{FB2CC498-51E7-4D07-8505-7577508C4F03}",
+   "Generator": "2024.1.8.8893"
+  },
+  "CacheRoot": "../../../../Racc00n Game v3_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{00BC5CC2-6A84-4EAE-BF9B-E42BC683DF15}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../Racc00n Game v3_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{C2A72E67-EF02-4B4E-B13A-F20EE86EA3CB}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../Racc00n Game v3_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{8D4FBDF0-1D40-4AB7-929C-3332B1D87D78}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{301DFC34-3638-7628-5234-B9C45233793A}"
+ }
+}

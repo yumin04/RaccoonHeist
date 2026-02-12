@@ -1,0 +1,115 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{90185A51-AA18-D81A-A8AA-EF310AC03B95}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{27BD9494-FF50-4EE2-A255-8DEBDA2C9532}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{30067793-997D-4E2D-BCB3-822A6D2A069C}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1021618141",
+      "Name": "MusicState",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicState",
+      "GUID": "{655C45DE-C73F-431D-8218-E2175552FCF0}",
+      "States": [
+       {
+        "Id": "417490929",
+        "Name": "Chase",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\Chase",
+        "GUID": "{CF04F2C1-F30D-4832-9A45-D8D48D030A1B}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\None",
+        "GUID": "{F2560800-624B-41CB-BF3B-ED83661C98A1}"
+       },
+       {
+        "Id": "2607556080",
+        "Name": "Menu",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\Menu",
+        "GUID": "{41A9C568-126C-41D1-9675-0B7AEC25BB13}"
+       },
+       {
+        "Id": "2864248198",
+        "Name": "MenuIntro",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\MenuIntro",
+        "GUID": "{25F733F9-788C-48CE-887B-F95672108554}"
+       },
+       {
+        "Id": "3259132480",
+        "Name": "PinkRaccoon",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\PinkRaccoon",
+        "GUID": "{8E2B7182-48E8-4471-A35F-D4D421046EE1}"
+       }
+      ]
+     },
+     {
+      "Id": "3237031728",
+      "Name": "PauseState",
+      "ObjectPath": "\\States\\Default Work Unit\\PauseState",
+      "GUID": "{C343552A-656B-400D-A149-A9F9888262C9}",
+      "States": [
+       {
+        "Id": "319258907",
+        "Name": "Paused",
+        "ObjectPath": "\\States\\Default Work Unit\\PauseState\\Paused",
+        "GUID": "{56BE8027-7995-475D-84C5-A8903D625CE8}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\PauseState\\None",
+        "GUID": "{D52F0A0D-B602-490F-BEC2-033804F94B67}"
+       },
+       {
+        "Id": "1365518790",
+        "Name": "Unpaused",
+        "ObjectPath": "\\States\\Default Work Unit\\PauseState\\Unpaused",
+        "GUID": "{408579A6-44FB-4FA4-A420-F4457494B5B2}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3FB2D4F0-E3C6-4F5B-6BF9-5628787AFE26}"
+ }
+}

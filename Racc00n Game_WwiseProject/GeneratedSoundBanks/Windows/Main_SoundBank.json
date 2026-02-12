@@ -1,0 +1,1103 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2228651116",
+    "Type": "User",
+    "GUID": "{85E14DE7-8E1D-4F42-B2F2-B31E65B98AFC}",
+    "Language": "SFX",
+    "Hash": "{F5CCFEBE-0256-57B2-8DBA-121004AB5523}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main_SoundBank",
+    "ShortName": "Main_SoundBank",
+    "Path": "Main_SoundBank.bnk",
+    "Media": [
+     {
+      "Id": "14642241",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Drums.wav",
+      "CachePath": "BB/{BB9006BC-7B7F-8965-7B07-1E496B26A2AB}.wem"
+     },
+     {
+      "Id": "35200710",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase JOE! Melody.wav",
+      "CachePath": "E6/{E61DDBA3-9577-F26F-C135-3AE656BB2AA8}.wem"
+     },
+     {
+      "Id": "41849650",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Melodies\\Menu Melody 1.wav",
+      "CachePath": "2C/{2CE3440C-BA8A-0B28-1292-06B32587A211}.wem"
+     },
+     {
+      "Id": "54350791",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme Intro\\Intro Winds.wav",
+      "CachePath": "C7/{C7EE8993-559B-E2F3-6D7F-9D48A5BCE79F}.wem"
+     },
+     {
+      "Id": "82570690",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Short Strings Layer 4.wav",
+      "CachePath": "E0/{E0E150A7-F9E1-6C7D-1FB8-23532F7BB565}.wem"
+     },
+     {
+      "Id": "122386415",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase Winds.wav",
+      "CachePath": "98/{98495833-A2F8-5F57-555C-CEBCE4038C8F}.wem"
+     },
+     {
+      "Id": "164449082",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Strings Layer 1.wav",
+      "CachePath": "5F/{5F49E5FC-FA04-6C05-B33E-C4E7EF062D1C}.wem"
+     },
+     {
+      "Id": "207333254",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Brass.wav",
+      "CachePath": "39/{39723D3D-31F2-EA0B-8BCE-4BA269343E19}.wem"
+     },
+     {
+      "Id": "217189073",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Winds.wav",
+      "CachePath": "03/{031EEFD3-7701-AD50-13D9-0C565BD5E7AA}.wem"
+     },
+     {
+      "Id": "225403725",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Bass.wav",
+      "CachePath": "29/{293FBE9A-AC67-5E5E-DDBC-63D7893D8017}.wem"
+     },
+     {
+      "Id": "278016175",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Strings.wav",
+      "CachePath": "95/{95701299-A20C-F3A5-5A7B-EA29AC3F27C9}.wem"
+     },
+     {
+      "Id": "319105122",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge to Chase!\\Chase Jaw Harp.wav",
+      "CachePath": "56/{56938132-32FA-5838-8E92-FE163301C760}.wem"
+     },
+     {
+      "Id": "328473032",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase JOE! Trumpet.wav",
+      "CachePath": "59/{590DABFE-6056-D1C6-D75F-DDD394C7B2BE}.wem"
+     },
+     {
+      "Id": "329497490",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Bass.wav",
+      "CachePath": "4B/{4BB6223F-786F-6C3D-557B-2900E8EC34CA}.wem"
+     },
+     {
+      "Id": "335508552",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Trumpet.wav",
+      "CachePath": "B5/{B513E0FE-B202-35DA-454F-183034AEBA8B}.wem"
+     },
+     {
+      "Id": "379129677",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Trumpet_1.wav",
+      "CachePath": "8B/{8BD44B59-3138-3891-2A4C-1510793F9D87}.wem"
+     },
+     {
+      "Id": "388904729",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Strings Layer 2.wav",
+      "CachePath": "97/{9799EF25-955E-6C69-5500-15222F90FA78}.wem"
+     },
+     {
+      "Id": "403136463",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Melodies\\Menu Sax Solo 2.wav",
+      "CachePath": "45/{45EBFA38-6FDE-20FB-69A4-91BA8B1AC7A1}.wem"
+     },
+     {
+      "Id": "430283809",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Clarinet.wav",
+      "CachePath": "8C/{8C9D510D-3E1B-3B62-02EA-3C172536F212}.wem"
+     },
+     {
+      "Id": "444526414",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme Intro\\Intro Keys.wav",
+      "CachePath": "52/{521C9DE2-F8E6-6077-FE9C-EE264B75FC18}.wem"
+     },
+     {
+      "Id": "467879395",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Sax Run 2.wav",
+      "CachePath": "2E/{2E281437-DD29-C719-8E68-4D99A32A57CB}.wem"
+     },
+     {
+      "Id": "470710145",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Horns.wav",
+      "CachePath": "48/{4821D339-5A51-168A-0507-45616377EF8A}.wem"
+     },
+     {
+      "Id": "474476642",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme Intro\\Intro Clarinet.wav",
+      "CachePath": "EB/{EB6CF380-2FA0-8CD6-229F-EAB8D524DCEF}.wem"
+     },
+     {
+      "Id": "493509951",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Jaw Harp.wav",
+      "CachePath": "9E/{9EBF335D-9295-8824-5BA1-71C412009D6F}.wem"
+     },
+     {
+      "Id": "514601288",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Xylo + Winds.wav",
+      "CachePath": "E1/{E1D54F6A-2F22-76C7-6AE0-11F757168696}.wem"
+     },
+     {
+      "Id": "525816098",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase JOE! HORN.wav",
+      "CachePath": "5B/{5B96AEC4-4B58-A866-3BCC-DA475F28B800}.wem"
+     },
+     {
+      "Id": "528636334",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Drums.wav",
+      "CachePath": "82/{82847170-FA45-8471-408E-24066175CB4D}.wem"
+     },
+     {
+      "Id": "559246703",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Melodies\\Menu Melody alt 2.wav",
+      "CachePath": "CA/{CA5AB3F1-C675-2C00-1189-B541F09ED383}.wem"
+     },
+     {
+      "Id": "582322971",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Trombones.wav",
+      "CachePath": "A3/{A3328682-A824-8676-A04C-678DFC6ED659}.wem"
+     },
+     {
+      "Id": "641672636",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Keys.wav",
+      "CachePath": "BD/{BD000C52-8B0A-D33F-34B7-3913F6211BC2}.wem"
+     },
+     {
+      "Id": "642152112",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Melodies\\Menu Sax Solo 3.wav",
+      "CachePath": "AA/{AA1C88E8-A76D-2FF5-C611-C022980A2B86}.wem"
+     },
+     {
+      "Id": "642200931",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Winds.wav",
+      "CachePath": "50/{50DAA0C5-7235-5C3A-D87F-85562229A172}.wem"
+     },
+     {
+      "Id": "665726070",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Melodies\\Rouge Sax Solo 1.wav",
+      "CachePath": "2C/{2CD563BA-DFA7-1A20-10F6-F2C421EEC6A2}.wem"
+     },
+     {
+      "Id": "669155841",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Horns.wav",
+      "CachePath": "78/{78B3FC09-D2CE-60CE-C012-22EE51B68763}.wem"
+     },
+     {
+      "Id": "672237961",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Clarinet.wav",
+      "CachePath": "E4/{E4669CEC-D965-F445-4F57-90FB954D8F28}.wem"
+     },
+     {
+      "Id": "682808376",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge to Chase!\\Chase Arco Strings.wav",
+      "CachePath": "F6/{F617DF2B-CFCF-B86A-FCEB-370BF11A11BE}.wem"
+     },
+     {
+      "Id": "686349538",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Melodies\\Menu Sax Solo 1.wav",
+      "CachePath": "F1/{F18966C2-DFCC-7B2B-FD4B-8FF3A4EF7748}.wem"
+     },
+     {
+      "Id": "711832425",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase Sax Runs.wav",
+      "CachePath": "AE/{AEC6097E-65CA-EFE5-8BC1-0E3142CC57FA}.wem"
+     },
+     {
+      "Id": "722095521",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Brass Fall Trumpet.wav",
+      "CachePath": "6C/{6C7463AA-0CB5-04DB-402D-BF60F974FE0E}.wem"
+     },
+     {
+      "Id": "722248580",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Drums.wav",
+      "CachePath": "F0/{F06F0952-5319-8CBA-0804-D71CBADFE083}.wem"
+     },
+     {
+      "Id": "738657983",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge to Chase!\\Chase Bass.wav",
+      "CachePath": "CA/{CAA20ED9-30ED-9CB7-BB44-B0AB73CB2901}.wem"
+     },
+     {
+      "Id": "793806195",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Bass.wav",
+      "CachePath": "69/{699CB917-D957-D05C-FAB2-C572BDD5A81E}.wem"
+     },
+     {
+      "Id": "799951823",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Strings Layer 3.wav",
+      "CachePath": "1B/{1B9F7B3C-0688-92FD-4175-CE89CF752B8B}.wem"
+     },
+     {
+      "Id": "803669676",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Trumpet.wav",
+      "CachePath": "1C/{1C6A9A73-11FF-841A-AB20-CA9110B348A6}.wem"
+     },
+     {
+      "Id": "806693236",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Window_Break_ODC-0023-458.wav",
+      "CachePath": "5D/{5DFDD8D9-8F5D-A057-DCA1-CAB9F9545BE1}.wem"
+     },
+     {
+      "Id": "848465512",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Flute.wav",
+      "CachePath": "F6/{F69E01D1-C831-C45F-2B01-14DD7BA37405}.wem"
+     },
+     {
+      "Id": "853155424",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge to Chase!\\Chase Sax Swells.wav",
+      "CachePath": "86/{8602F405-A83E-08A6-5304-DEBE06F99CC2}.wem"
+     },
+     {
+      "Id": "869540383",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Strings Layer 2.wav",
+      "CachePath": "0E/{0E3D128B-AE54-AD16-A7F5-32DF745E30A6}.wem"
+     },
+     {
+      "Id": "883824347",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Brass.wav",
+      "CachePath": "2C/{2C70ED44-9EC3-46F4-C636-FFCF8AB8C9B6}.wem"
+     },
+     {
+      "Id": "896292542",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bounces v2\\Drum Fills_1.wav",
+      "CachePath": "F2/{F2C0BF30-50F4-D79E-F6D5-8A63B2AD5D27}.wem"
+     },
+     {
+      "Id": "898316884",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bounces v2\\Fill Clarinet.wav",
+      "CachePath": "A1/{A1F576A2-A81A-A4BA-489F-67A6DB1BD6C5}.wem"
+     },
+     {
+      "Id": "899030750",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Clarinet.wav",
+      "CachePath": "14/{148D2832-3FB5-E3D1-D60F-7BDFC790CBAF}.wem"
+     },
+     {
+      "Id": "911231430",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Melodies\\Rouge Melody 1.wav",
+      "CachePath": "8E/{8EFAD464-FCB0-80EA-52E8-4366C1A3E6DF}.wem"
+     },
+     {
+      "Id": "917366960",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Xylo + Winds.wav",
+      "CachePath": "21/{21BF4384-4236-880D-6F11-67BE994C78D9}.wem"
+     },
+     {
+      "Id": "972099479",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Strings Layer 1.wav",
+      "CachePath": "2F/{2F0B9E36-F6E4-9A93-A706-C0AD329DB2E5}.wem"
+     },
+     {
+      "Id": "979054113",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Chase\\Chase Sax Run 1.wav",
+      "CachePath": "8A/{8AAD297A-41AA-20B4-FAFC-CE7D562E5932}.wem"
+     },
+     {
+      "Id": "986285141",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Winds.wav",
+      "CachePath": "E1/{E17C5C44-CBCD-73C8-29CD-FA879269F9D5}.wem"
+     },
+     {
+      "Id": "1001762735",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bounces v2\\Fill Bass.wav",
+      "CachePath": "B7/{B77253BB-F2BC-3728-BC5D-B82866F76A06}.wem"
+     },
+     {
+      "Id": "1006684655",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Melodies\\Rouge Sax Solo 2.wav",
+      "CachePath": "EF/{EF3E8A84-7D1B-00C7-A159-91C4494CFD36}.wem"
+     },
+     {
+      "Id": "1009275270",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Short Strings Layer 4.wav",
+      "CachePath": "86/{86B26BA3-6240-3FB2-E614-7D6FFB8EF961}.wem"
+     },
+     {
+      "Id": "1012280462",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme Intro\\Intro Strings.wav",
+      "CachePath": "2C/{2C48B354-F3A7-50B0-4A7F-CF3829349B03}.wem"
+     },
+     {
+      "Id": "1027024098",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu to Rouge\\Menu to Rouge Bass.wav",
+      "CachePath": "5B/{5B6042F1-A755-59E6-92B9-093BB048E330}.wem"
+     },
+     {
+      "Id": "1027921234",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Rouge Raccoon\\Rouge Drums.wav",
+      "CachePath": "B8/{B8FD9F58-64C6-A204-248E-E33EC3A0ADD6}.wem"
+     },
+     {
+      "Id": "1066338421",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Menu Theme\\Menu Xylo + Winds.wav",
+      "CachePath": "2B/{2B192658-2FC3-9424-9109-C105C0F00BB4}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2570041344",
+      "Name": "Play_MenuMusic",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_MenuMusic",
+      "GUID": "{1F9E977E-B066-4419-A13B-EFEAA5942D29}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "14642241"
+       },
+       {
+        "Id": "41849650"
+       },
+       {
+        "Id": "164449082"
+       },
+       {
+        "Id": "379129677"
+       },
+       {
+        "Id": "403136463"
+       },
+       {
+        "Id": "470710145"
+       },
+       {
+        "Id": "559246703"
+       },
+       {
+        "Id": "641672636"
+       },
+       {
+        "Id": "642152112"
+       },
+       {
+        "Id": "642200931"
+       },
+       {
+        "Id": "686349538"
+       },
+       {
+        "Id": "793806195"
+       },
+       {
+        "Id": "799951823"
+       },
+       {
+        "Id": "869540383"
+       },
+       {
+        "Id": "899030750"
+       },
+       {
+        "Id": "1009275270"
+       },
+       {
+        "Id": "1066338421"
+       }
+      ]
+     },
+     {
+      "Id": "825263851",
+      "Name": "Play_WindowBreak",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_WindowBreak",
+      "GUID": "{32CE3FCF-54CB-4034-9F93-18AA3D84B53C}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.5210052",
+      "DurationMax": "3.5210052",
+      "MediaRefs": [
+       {
+        "Id": "806693236"
+       }
+      ]
+     },
+     {
+      "Id": "1422657174",
+      "Name": "PlayGameMusic",
+      "ObjectPath": "\\Events\\Default Work Unit\\PlayGameMusic",
+      "GUID": "{FD3E54B2-1161-4EB6-BA2C-16FE29C47AC0}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "54350791"
+       },
+       {
+        "Id": "122386415"
+       },
+       {
+        "Id": "319105122"
+       },
+       {
+        "Id": "430283809"
+       },
+       {
+        "Id": "444526414"
+       },
+       {
+        "Id": "474476642"
+       },
+       {
+        "Id": "528636334"
+       },
+       {
+        "Id": "669155841"
+       },
+       {
+        "Id": "682808376"
+       },
+       {
+        "Id": "711832425"
+       },
+       {
+        "Id": "722095521"
+       },
+       {
+        "Id": "738657983"
+       },
+       {
+        "Id": "803669676"
+       },
+       {
+        "Id": "853155424"
+       },
+       {
+        "Id": "896292542"
+       },
+       {
+        "Id": "898316884"
+       },
+       {
+        "Id": "986285141"
+       },
+       {
+        "Id": "1001762735"
+       },
+       {
+        "Id": "1012280462"
+       },
+       {
+        "Id": "1027024098"
+       }
+      ],
+      "SwitchContainers": [
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "417490929",
+         "GUID": "{CF04F2C1-F30D-4832-9A45-D8D48D030A1B}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "35200710"
+         },
+         {
+          "Id": "217189073"
+         },
+         {
+          "Id": "225403725"
+         },
+         {
+          "Id": "278016175"
+         },
+         {
+          "Id": "328473032"
+         },
+         {
+          "Id": "467879395"
+         },
+         {
+          "Id": "525816098"
+         },
+         {
+          "Id": "582322971"
+         },
+         {
+          "Id": "672237961"
+         },
+         {
+          "Id": "722248580"
+         },
+         {
+          "Id": "883824347"
+         },
+         {
+          "Id": "917366960"
+         },
+         {
+          "Id": "979054113"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "2607556080",
+         "GUID": "{41A9C568-126C-41D1-9675-0B7AEC25BB13}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "14642241"
+         },
+         {
+          "Id": "41849650"
+         },
+         {
+          "Id": "164449082"
+         },
+         {
+          "Id": "379129677"
+         },
+         {
+          "Id": "403136463"
+         },
+         {
+          "Id": "470710145"
+         },
+         {
+          "Id": "559246703"
+         },
+         {
+          "Id": "641672636"
+         },
+         {
+          "Id": "642152112"
+         },
+         {
+          "Id": "642200931"
+         },
+         {
+          "Id": "686349538"
+         },
+         {
+          "Id": "793806195"
+         },
+         {
+          "Id": "799951823"
+         },
+         {
+          "Id": "869540383"
+         },
+         {
+          "Id": "899030750"
+         },
+         {
+          "Id": "1009275270"
+         },
+         {
+          "Id": "1066338421"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "3259132480",
+         "GUID": "{8E2B7182-48E8-4471-A35F-D4D421046EE1}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "82570690"
+         },
+         {
+          "Id": "207333254"
+         },
+         {
+          "Id": "329497490"
+         },
+         {
+          "Id": "335508552"
+         },
+         {
+          "Id": "388904729"
+         },
+         {
+          "Id": "493509951"
+         },
+         {
+          "Id": "514601288"
+         },
+         {
+          "Id": "665726070"
+         },
+         {
+          "Id": "848465512"
+         },
+         {
+          "Id": "911231430"
+         },
+         {
+          "Id": "972099479"
+         },
+         {
+          "Id": "1006684655"
+         },
+         {
+          "Id": "1027921234"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "2864248198",
+         "GUID": "{25F733F9-788C-48CE-887B-F95672108554}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "54350791"
+         },
+         {
+          "Id": "444526414"
+         },
+         {
+          "Id": "474476642"
+         },
+         {
+          "Id": "1012280462"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "417490929",
+         "GUID": "{CF04F2C1-F30D-4832-9A45-D8D48D030A1B}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "35200710"
+         },
+         {
+          "Id": "217189073"
+         },
+         {
+          "Id": "225403725"
+         },
+         {
+          "Id": "278016175"
+         },
+         {
+          "Id": "328473032"
+         },
+         {
+          "Id": "467879395"
+         },
+         {
+          "Id": "525816098"
+         },
+         {
+          "Id": "582322971"
+         },
+         {
+          "Id": "672237961"
+         },
+         {
+          "Id": "722248580"
+         },
+         {
+          "Id": "883824347"
+         },
+         {
+          "Id": "917366960"
+         },
+         {
+          "Id": "979054113"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "2607556080",
+         "GUID": "{41A9C568-126C-41D1-9675-0B7AEC25BB13}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "14642241"
+         },
+         {
+          "Id": "41849650"
+         },
+         {
+          "Id": "164449082"
+         },
+         {
+          "Id": "379129677"
+         },
+         {
+          "Id": "403136463"
+         },
+         {
+          "Id": "470710145"
+         },
+         {
+          "Id": "559246703"
+         },
+         {
+          "Id": "641672636"
+         },
+         {
+          "Id": "642152112"
+         },
+         {
+          "Id": "642200931"
+         },
+         {
+          "Id": "686349538"
+         },
+         {
+          "Id": "793806195"
+         },
+         {
+          "Id": "799951823"
+         },
+         {
+          "Id": "869540383"
+         },
+         {
+          "Id": "899030750"
+         },
+         {
+          "Id": "1009275270"
+         },
+         {
+          "Id": "1066338421"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "3259132480",
+         "GUID": "{8E2B7182-48E8-4471-A35F-D4D421046EE1}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "82570690"
+         },
+         {
+          "Id": "207333254"
+         },
+         {
+          "Id": "329497490"
+         },
+         {
+          "Id": "335508552"
+         },
+         {
+          "Id": "388904729"
+         },
+         {
+          "Id": "493509951"
+         },
+         {
+          "Id": "514601288"
+         },
+         {
+          "Id": "665726070"
+         },
+         {
+          "Id": "848465512"
+         },
+         {
+          "Id": "911231430"
+         },
+         {
+          "Id": "972099479"
+         },
+         {
+          "Id": "1006684655"
+         },
+         {
+          "Id": "1027921234"
+         }
+        ]
+       },
+       {
+        "SwitchValue": {
+         "GroupType": "State",
+         "GroupId": "1021618141",
+         "Id": "2864248198",
+         "GUID": "{25F733F9-788C-48CE-887B-F95672108554}"
+        },
+        "MediaRefs": [
+         {
+          "Id": "54350791"
+         },
+         {
+          "Id": "444526414"
+         },
+         {
+          "Id": "474476642"
+         },
+         {
+          "Id": "1012280462"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "Id": "2597825084",
+      "Name": "PostMusicTrigger",
+      "ObjectPath": "\\Events\\Default Work Unit\\PostMusicTrigger",
+      "GUID": "{912FE7F0-B60A-457C-9943-B303BAF676B3}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "1021618141",
+        "Id": "3259132480",
+        "Name": "PinkRaccoon",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\PinkRaccoon",
+        "GUID": "{8E2B7182-48E8-4471-A35F-D4D421046EE1}"
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "1021618141",
+      "Name": "MusicState",
+      "ObjectPath": "\\States\\Default Work Unit\\MusicState",
+      "GUID": "{655C45DE-C73F-431D-8218-E2175552FCF0}",
+      "States": [
+       {
+        "Id": "417490929",
+        "Name": "Chase",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\Chase",
+        "GUID": "{CF04F2C1-F30D-4832-9A45-D8D48D030A1B}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\None",
+        "GUID": "{F2560800-624B-41CB-BF3B-ED83661C98A1}"
+       },
+       {
+        "Id": "2607556080",
+        "Name": "Menu",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\Menu",
+        "GUID": "{41A9C568-126C-41D1-9675-0B7AEC25BB13}"
+       },
+       {
+        "Id": "2864248198",
+        "Name": "MenuIntro",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\MenuIntro",
+        "GUID": "{25F733F9-788C-48CE-887B-F95672108554}"
+       },
+       {
+        "Id": "3259132480",
+        "Name": "PinkRaccoon",
+        "ObjectPath": "\\States\\Default Work Unit\\MusicState\\PinkRaccoon",
+        "GUID": "{8E2B7182-48E8-4471-A35F-D4D421046EE1}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A9C3CCFA-17B5-8BE6-AC49-C9418257C0BF}"
+ }
+}

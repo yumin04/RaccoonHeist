@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DD662922-0C54-4C7E-AFF6-61B575EAFE34}" SchemaVersion="123">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{DD662922-0C54-4C7E-AFF6-61B575EAFE34}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="MusicState" ID="{655C45DE-C73F-431D-8218-E2175552FCF0}">
+					<ChildrenList>
+						<State Name="None" ID="{F2560800-624B-41CB-BF3B-ED83661C98A1}"/>
+						<State Name="Menu" ID="{41A9C568-126C-41D1-9675-0B7AEC25BB13}"/>
+						<State Name="PinkRaccoon" ID="{8E2B7182-48E8-4471-A35F-D4D421046EE1}"/>
+						<State Name="Chase" ID="{CF04F2C1-F30D-4832-9A45-D8D48D030A1B}"/>
+						<State Name="MenuIntro" ID="{25F733F9-788C-48CE-887B-F95672108554}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="PauseState" ID="{C343552A-656B-400D-A149-A9F9888262C9}">
+					<ChildrenList>
+						<State Name="None" ID="{D52F0A0D-B602-490F-BEC2-033804F94B67}"/>
+						<State Name="Paused" ID="{56BE8027-7995-475D-84C5-A8903D625CE8}"/>
+						<State Name="Unpaused" ID="{408579A6-44FB-4FA4-A420-F4457494B5B2}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

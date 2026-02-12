@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{63EB394B-5A52-404E-87D6-EAA0CBB36A36}" SchemaVersion="123">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{63EB394B-5A52-404E-87D6-EAA0CBB36A36}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="SoundCaster Music" ID="{19C6E1D2-8B63-4372-B215-DA1750B5ADAF}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Chase" ID="{9087C7E4-1716-408B-838D-6AA7F9640044}" WorkUnitID="{92EE93FE-986F-4F8A-B5BA-7A845972C8B7}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="RougeRacoon" ID="{7288EE8A-F8A6-49E1-A8A5-DF251FDC3877}" WorkUnitID="{92EE93FE-986F-4F8A-B5BA-7A845972C8B7}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

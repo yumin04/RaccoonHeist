@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{82836EC9-30C5-4F48-8E2B-93A2424D5893}" SchemaVersion="123">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{82836EC9-30C5-4F48-8E2B-93A2424D5893}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX" ID="{5809A103-957C-4D0D-8266-7E76D04D8806}" ShortID="584277453">
+					<ChildrenList>
+						<Sound Name="Window_Break_ODC-0023-458" ID="{D92001AF-8938-4921-AD4C-1C5B1E68BD7A}" ShortID="764208757">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{E1C9A894-54AA-4AEB-935C-03F193520F87}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8D1B8C4A-7542-4AEE-B5FF-CD0079486AFC}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Window_Break_ODC-0023-458" ID="{3C0E6A6C-387F-4274-9B9B-1EE103A4376B}">
+									<PropertyList>
+										<Property Name="LoopBegin" Type="Real64" Value="0.0371937177568206"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="0.0309947647973505"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Window_Break_ODC-0023-458.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="806693236"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Window_Break_ODC-0023-458" ID="{3C0E6A6C-387F-4274-9B9B-1EE103A4376B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
