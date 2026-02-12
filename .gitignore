@@ -88,3 +88,6 @@ InitTestScene*.unity*
 
 # Auto-generated play mode scenes
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Mac shits
+/[Aa]ssets/Wwise/API/Runtime/Plugins/Mac/
